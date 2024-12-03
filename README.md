@@ -1,8 +1,6 @@
 # Armageddon-micro
 Mini version of Armageddon 
-Here's an updated version of the `README.md` with social media icons as buttons and a table of contents for the major sections:
 
-```markdown
 # Multi-Region AWS Terraform Project
 
 ## Table of Contents
